@@ -36,6 +36,6 @@ def main():
     job.stop()
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     print('hi')
     main()
